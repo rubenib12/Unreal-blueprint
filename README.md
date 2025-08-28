@@ -5,7 +5,7 @@ Forman parte de mis prácticas y proyectos personales.
 ---
 
 ##  Contenido
- -BP_pinchos.uasset - controla unos pinchos que suben y bajan
+ -[BP_pinchos.uasset](BP_pinchos.uasset)- controla unos pinchos que suben y bajan
 
 
 ---
