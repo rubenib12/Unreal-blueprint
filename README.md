@@ -23,4 +23,4 @@ Forman parte de mis prácticas y proyectos personales.
 ---
 
 ## Autor
-ruben – rubenif903@gmail.com
+Rubén Ibáñez – rubenif903@gmail.com
