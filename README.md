@@ -10,7 +10,7 @@ Forman parte de mis prácticas y proyectos personales.
 
 ---
 
-## 📸 Capturas
+## Capturas
 
 
 
